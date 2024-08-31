@@ -1,3 +1,9 @@
+# A Machine Learning Crash Course
+
+## Resources
+
+- [Slide](https://pitch.com/v/machine-learning-vuef7z)
+
 ## Setup Python
 
 Prefer using [miniconda](https://docs.anaconda.com/miniconda/) to install, manage Python environments. You need to download `miniconda` [here](https://docs.anaconda.com/miniconda/miniconda-install/)
