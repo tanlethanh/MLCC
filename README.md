@@ -29,7 +29,7 @@ _This activation is only available in a terminal session, if you reopen or reloa
 
 ## Setup Coding
 
-You need somehow to write the code and run it. There are 3 common ways to run Python (or ML) code
+You need somehow to write the code and run it. There are 3 common ways to work with Python (or ML) code
 - Interactive terminal
 - Python script with VSCode (or any code editor)
 - ML Notebook (Jupiter Notebook or Google Colab)
