@@ -93,6 +93,32 @@ Hello world 3
 _You can run Python code by VSCode's built-in features or extensions, but the above running is exactly how the Python code is run behind any scene. The code is run by the Python environment which you activated, you need to be aware about it. Sometimes, you might want to check which Python you are using, by running `which python` in terminal_
 
 
+### Notebooks
 
+You may find that Notebooks are popular among ML learners because they offer an intuitive interface that combines executable code with documentation.
 
+- [Jupiter Notebook](https://jupyter.org/): An open-source, interactive environment for running and documenting code, widely used in data science and research.
+- [Google Colab](https://colab.google/): A cloud-based version of Jupyter Notebook by Google, offering free GPU access for collaborative and high-performance computing.
+
+_For local execution and source code sharing, Jupyter is ideal. For cloud-based, plug-and-play collaboration, Google Colab is a great choice._
+
+#### Jupiter Notebook with Python venv
+
+[Offical installation instructions](https://jupyter.org/install)
+
+_Remind: you are working with Python, and it requires an activated venv as aforementioned_
+
+Install Jupyter notebook by `pip` which is a built-in, simplest Python package manager, it helps install, manage python libraries, packages. `pip` is belong to a `venv` and the installed libs, packages is only available in the activated venv.
+
+```
+pip install notebook
+```
+
+Run the Notebook
+
+```
+jupyter notebook
+```
+
+It will open a web-based notebook for current directory, you can easily create, start hacking with this Notebook
 
