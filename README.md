@@ -30,11 +30,11 @@ _This activation is only available in a terminal session, if you reopen or reloa
 ## Setup Coding
 
 You need somehow to write the code and run it. There are 3 common ways to work with Python (or ML) code
-- Interactive terminal
+- Interactive Python
 - Python script with VSCode (or any code editor)
 - ML Notebook (Jupiter Notebook or Google Colab)
 
-### Interactive terminal
+### Interactive Python
 
 Open a terminal, and ensure that there is a global Python environment or an activated venv. Run the command
 
